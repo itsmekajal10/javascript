@@ -1,0 +1,82 @@
+.priceTag{
+    margin-left: 250px;
+}
+.div{
+    display: inline-block;
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 200px;
+    margin-left: 30px;
+    border-radius: 10px;
+    border: 1px solid rgb(218, 214, 214);
+}
+.basic{
+    background-color: #008C76FF;
+    text-align: center;
+    color: whitesmoke;
+    font-size: x-large;
+    font-weight: 500;
+    padding-top: 2px; 
+    padding-bottom: 2px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.div1{
+    position: relative;
+    bottom: 30px;
+    display: inline-block;
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 200px;
+    margin-left: 30px;
+    border-radius: 10px;
+    border: 1px solid rgb(218, 214, 214);
+}
+.basic p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 8px;
+}
+.basic1{
+    background-color: rgb(223, 23, 23);
+    text-align: center;
+    color: whitesmoke;
+    font-size: x-large;
+    font-weight: 500;
+    padding-top: 2px; 
+    padding-bottom: 2px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.basic1 p{
+    margin-top: 0px ;
+    margin-bottom: 0px;
+    padding: 8px;
+}
+.container{ 
+    padding: 10px;    
+}
+.container ul li {
+    list-style-type: none;
+    margin-left: 80px;
+    font-weight: 500;
+}
+.list_inline{
+    display: inline;
+    margin-left: 50px;
+}
+.container h1{
+    text-align: center;
+}
+.container button{
+    background-color: #008C76FF;
+    text-align: center;
+    margin: 0px 0px 20px 16px;
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: 500;
+    width: 250px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
