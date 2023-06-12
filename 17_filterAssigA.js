@@ -25,3 +25,4 @@ const numberBetween20And50 = arrayNumbers.filter((element) => {
 return (element>20 && element<50);
 });
 console.log('Number between 20 & 50:-',numberBetween20And50);
+
